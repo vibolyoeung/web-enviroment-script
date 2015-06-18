@@ -1,5 +1,5 @@
-# web Enviroment Installation Script
-# PHP + apache + MySql
+# Web Environment Installation Script
+## PHP + apache + MySql
 
 Please read and check this Readme from times to times so that
 to not waste time later wondering how to do things which are

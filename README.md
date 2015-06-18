@@ -10,5 +10,5 @@ I have no way to improve it =)
 
 ## To run it:
 ```
-cd youDirectoryWhichFileLocated
+cd yourDirectoryWhichFileLocated
 sh ./install-webenv.sh

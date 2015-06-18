@@ -17,17 +17,17 @@ sh ./install-webenv.sh
 ```
 sudo nano /var/www/html/info.php
 ```
-###Add the following line
+Add the following line
 ```
 <?php
    phpinfo();
 ?>
 ```
-### Restart apache
+Restart apache
 ```
 sudo service apache2 restart
 ```
-### Type the url like bellow in the browser bar
+Type the url like bellow in the browser bar
 ```
 http://locahost/info.php
 ```
